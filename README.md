@@ -138,4 +138,4 @@ This tool combines and leverages several excellent open-source security tools:
 - [uro](https://github.com/s0md3v/uro)
 - [dalfox](https://github.com/hahwul/dalfox)
 - [BruteSecurity]
-[@sami-tor](https://github.com/sami-tor)
+- [@sami-tor](https://github.com/sami-tor)
