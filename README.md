@@ -137,5 +137,5 @@ This tool combines and leverages several excellent open-source security tools:
 - [gospider](https://github.com/jaeles-project/gospider)
 - [uro](https://github.com/s0md3v/uro)
 - [dalfox](https://github.com/hahwul/dalfox)
-- [BruteSecurity]
+- [@BruteSecurity](x.com/darkshadow2bd)
 - [@sami-tor](https://github.com/sami-tor)
