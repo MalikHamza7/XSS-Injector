@@ -21,7 +21,7 @@ A powerful Go-based tool for hunting XSS vulnerabilities in web applications. Th
 1. Clone this repository or download the `xss-linux.go` file:
 
 ```bash
-git clone https://github.com/yourusername/Clean-Xss-Injector.git
+git clone https://github.com/MalikHamza7/XSS-Injector.git
 cd Clean-Xss-Injector
 ```
 
