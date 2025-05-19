@@ -92,6 +92,7 @@ Sends URLs directly to Dalfox for blind XSS detection using a given callback dom
 ### Basic Usage
 
 ```bash
+chmod + x xss
 ./xss
 ```
 
@@ -137,3 +138,4 @@ This tool combines and leverages several excellent open-source security tools:
 - [uro](https://github.com/s0md3v/uro)
 - [dalfox](https://github.com/hahwul/dalfox)
 - [BruteSecurity]
+[@sami-tor](https://github.com/sami-tor)
